@@ -11,4 +11,6 @@ some good references :
 
 https://colab.research.google.com/drive/1cqDz4gI-FxAz88C9eV6WNmzJEDW1covN#scrollTo=1KTc4L3BVWIZ
 
+[Aaron Van den Oord- implementation in PyTorch](https://nbviewer.jupyter.org/github/zalandoresearch/pytorch-vq-vae/blob/master/vq-vae.ipynb)
+
 
